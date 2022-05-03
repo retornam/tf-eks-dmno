@@ -1,0 +1,7 @@
+.terraform/*
+*.tfstate
+*.zip
+variables.tf.template
+variables.tf.use
+.terraform.lock.hcl
+example/dominoinstalltools/*
